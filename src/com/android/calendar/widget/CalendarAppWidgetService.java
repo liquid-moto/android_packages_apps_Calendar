@@ -87,7 +87,7 @@ public class CalendarAppWidgetService extends RemoteViewsService {
     static final int INDEX_COLOR = 8;
     static final int INDEX_SELF_ATTENDEE_STATUS = 9;
 
-    static final int MAX_DAYS = 61;
+    static final int MAX_DAYS = 123;
 
     private static final long SEARCH_DURATION = MAX_DAYS * DateUtils.DAY_IN_MILLIS;
 
